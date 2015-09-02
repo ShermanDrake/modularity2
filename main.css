@@ -1,1 +1,26 @@
 /* ADD YOUR STYLES HERE */
+.center-picture img {
+	padding: 20px;
+
+}
+
+.center-picture {
+	text-align: center;
+
+}
+
+.center-text {
+	text-align: center;
+}
+
+.vertically-center-picture {
+	padding: 0 300px 0 300px;
+	box-sizing: border-box;
+	width: 500px;
+
+}
+
+.vertically-center-picture img {
+	padding: 10px;
+	display: block;
+}
