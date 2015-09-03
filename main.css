@@ -123,13 +123,27 @@
 }
 */
 
-.tabs ul {
-	display: inline;
-	border: solid;
+.tab {
+	display: inline-block;
 	border-width: 1px 1px 0 1px;
 	margin: 0 0.5em 0 0;
+	padding: 0 1em;
+	border: 1px solid black;
+
 }
 
+.tab-selected {
+	padding-bottom: 1px;
+	background: white;
+	border-width: 1px 1px 0px 1px;
+	background-color: lightgray;
+
+}
+.tab-box {
+	background-color: lightgray;
+	padding: 5px;
+
+}
 
 
 
