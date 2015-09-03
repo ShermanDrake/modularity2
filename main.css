@@ -37,3 +37,125 @@
 	text-align: left;
 	padding: 20px;
 }
+
+.button {
+	border-radius: 10px;
+	border: none;
+	margin: 5px;
+	display: inline-block;
+
+}
+
+.button-skin {
+	padding: 10px 15px;
+	background-color: orange;
+	color: white;
+
+}
+
+.button-skin-new {
+	color: black;
+	background-color: darkorange;
+
+}
+
+.button-vente {
+	padding: 50px 25px;
+
+}
+
+.button-grande {
+	padding: 40px 20px;
+
+}
+
+.button-tall {
+	padding: 30px 30px;
+
+}
+
+.highlight-hover:hover a {
+	color: lightgreen;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+.pagination:hover {
+	background: darkgray;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.comment-stream {
+	width: 80%;
+	margin: 0 auto 1em auto;
+}
+
+/*.tabs {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+}
+
+.tabs li {
+	float: left;
+	padding: 0;
+	margin: 0;
+	padding-top: 0;
+	background: ;
+	margin-right: 1px;
+
+}
+
+.tabs li a {
+	display: block;
+	padding: 0px 10px;
+	color: lightgray;
+	text-decoration: none;
+	background: ;
+
+}
+
+.tabs li a:hover {
+	color: lightgreen;
+}
+*/
+
+.tabs ul {
+	display: inline;
+	border: solid;
+	border-width: 1px 1px 0 1px;
+	margin: 0 0.5em 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
